@@ -8,12 +8,14 @@ body{
     background-color: whitesmoke;
 }
 
-.head{
+header{
     background-color: white; 
 }
 
 h1{
     display: inline-block;
+    vertical-align: middle;
+    
     
 }
 
@@ -21,6 +23,7 @@ h1{
     margin-left: 20px;
     margin-top: 5px;
     margin-bottom: 5px;
+    vertical-align: middle;
 
     
     
